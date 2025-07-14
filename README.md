@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boa, boa 👋
 
-<!--
-**BrunoKTI/BrunoKTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skatista nas horas vagas 🛹, curioso de plantão e sempre buscando evoluir, seja no código ou na vida.
 
-Here are some ideas to get you started:
+### 👨‍💻 Em foco:
+- Desenvolvimento de projetos próprios para o portfólio
+- Aprendizado contínuo em banco de dados, visualização de dados e automações
+- Conectar minha vivência com o mundo da tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Vamos nos conectar:
+- [LinkedIn](linkedin.com/in/bruno-pereira-1ab0001b5)
+- [GitHub](https://github.com/BrunoKTI)
+
